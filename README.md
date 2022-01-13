@@ -1,4 +1,4 @@
-# Site hoted at:
+# Site deployed at:
 # https://countryassignment.netlify.app/
 
 
